@@ -31,13 +31,13 @@ This is the job interview task for software developer position
 ## User Guidelines
 
 ### Login
-![00_login](https://github.com/thekowsar/bidding-system/assets/8324420/fbe6e010-11a2-44de-a216-9e606aeee6b4)
+![00_login](https://github.com/kowsar-rahman/WeatherApp/blob/main/src/main/resources/META-INF/resources/images/01-login.png?raw=true)
 ### Search Location
-![01_search_location](https://github.com/thekowsar/bidding-system/assets/8324420/df540821-6283-4b40-a38b-c9e80c59e4a6)
+![01_search_location](https://github.com/kowsar-rahman/WeatherApp/blob/main/src/main/resources/META-INF/resources/images/02-cities.png?raw=true)
 ### Daily Chart
 ![02_show_daly_chart](https://github.com/thekowsar/bidding-system/assets/8324420/74b021b7-db53-4a08-ada3-aeee44fbccca)
 ### Hourly Chart
-![03_show_hourly_chart](https://github.com/thekowsar/bidding-system/assets/8324420/06d2698c-8532-40fa-b4ee-53162d28d58d)
+![03_show_hourly_chart](https://github.com/kowsar-rahman/WeatherApp/blob/main/src/main/resources/META-INF/resources/images/04-hourly-chart-view.png?raw=true)
 ## What to do
 * Fork the repository
 * After work is done, make a pull request and notify me by email
