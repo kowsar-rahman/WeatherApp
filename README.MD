@@ -35,7 +35,7 @@ This is the job interview task for software developer position
 ### Search Location
 ![01_search_location](https://github.com/kowsar-rahman/WeatherApp/blob/main/src/main/resources/META-INF/resources/images/02-cities.png?raw=true)
 ### Daily Chart
-![02_show_daly_chart](https://github.com/thekowsar/bidding-system/assets/8324420/74b021b7-db53-4a08-ada3-aeee44fbccca)
+![02_show_daly_chart](https://github.com/kowsar-rahman/WeatherApp/blob/main/src/main/resources/META-INF/resources/images/03-daily-chart-view.png?raw=true)
 ### Hourly Chart
 ![03_show_hourly_chart](https://github.com/kowsar-rahman/WeatherApp/blob/main/src/main/resources/META-INF/resources/images/04-hourly-chart-view.png?raw=true)
 ## What to do
